@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greninja)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## &#x1f4c8; GitHub Stats
+
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greninja&hide=makefile,matlab,java,shell,javascript,css,dockerfile,c%2B%2B,c%23,c,tex,labview" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=greninja&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</p>
+
 <!--
 **greninja/greninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
