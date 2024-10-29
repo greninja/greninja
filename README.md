@@ -4,12 +4,12 @@ I have a solid foundation in research 🧪, with some experience building softwa
 
 As I move forward in my career, I’m excited to transition into an industry-focused role as a software or machine learning engineer. I’m particularly drawn to early to mid-stage startups where I can contribute to meaningful growth. I highly value a strong, dynamic founding team and a culture that promotes both personal and professional development. I’m open to exploring different domains, as long as the product and roadmap are compelling, the team is solid, and there’s significant opportunity for learning and growth. If you think I’d be a great fit, feel free to reach out!
 
-## &#x1f4c8; Check out some of my GitHub Stats
+<!--## &#x1f4c8; Check out some of my GitHub Stats
 
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greninja&hide=makefile,matlab,java,shell,javascript,css,dockerfile,c%2B%2B,c%23,c,tex,labview" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=greninja&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</p>
+</p>-->
 
 <!--
 **greninja/greninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
