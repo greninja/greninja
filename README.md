@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I come from a research background 🧪 with hands-on experience building open source software 💻. I earned my Master’s in Computer Science, where my work on trustworthy machine learning earned a Spotlight acceptance at NeurIPS 2024 [(Link)](https://nips.cc/virtual/2024/poster/95529). You can find more about my work and projects on my webpage (link on the left).
+I come from a research background 🧪 with hands-on experience building open source software 💻. I earned my Master’s in Computer Science, where my work on trustworthy machine learning earned a Spotlight acceptance at NeurIPS 2024 [(Link)](https://nips.cc/virtual/2024/poster/95529). You can find more about my work and projects here and on my webpage (link on the left).
 
 🌱 I’m now looking to transition into a more engineering-focused role—ideally at an early- to mid-stage startup where I can have a tangible impact on growth. While much of my recent work has been in ML research on security and privacy, what truly drives me is engineering: building scalable systems and solving complex, ambiguous problems. That passion is what led me to study computer science and engineering in the first place, and it’s what I want to focus on in the years ahead. I value engineering cultures that foster both personal and professional growth, and I’m open to working across domains as long as the product is compelling, the team is strong and dynamic, and there’s room to learn and make an impact.
 
